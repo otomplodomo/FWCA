@@ -1,10 +1,10 @@
-## Welcome To Rchain Transcripts
+## Welcome To Fort Worth Climate Activists
 
-Watch this space for transcripts from RCHAIN DEBRIEFS
+Watch this space for transcripts from Fort Worth Climate Activists
 
 
 ```markdown
-#### TRANSCRIPTIONS
+#### Fort Worth Climate Activists
 
 # Fast
 ## Friendly
@@ -21,5 +21,5 @@ Watch this space for transcripts from RCHAIN DEBRIEFS
 
 ```
 
-For more details see [RCHAIN COOPERATIVE](https://www.rchain.coop/).
+For more details see 
 
