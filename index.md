@@ -4,7 +4,8 @@ Watch this space for transcripts from RCHAIN DEBRIEFS
 
 
 ```markdown
-Syntax highlighted code block
+#### TRANSCRIPTIONS
+
 # Fast
 ## Friendly
 ### Accurate
@@ -14,10 +15,10 @@ Syntax highlighted code block
 
 1. Things like this :)
 2. Not like this :(
+3. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [RCHAIN COOPERATIVE](https://www.rchain.coop/).
