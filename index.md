@@ -15,7 +15,7 @@ Watch this space for transcripts from Fort Worth Climate Activists
 
 1. Things like this :)
 2. Not like this :(
-3. 
+3. The perspective changes in this theme from right to left?
 
 
 
